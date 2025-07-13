@@ -12,7 +12,7 @@ A Streamlit app that extracts structured data from scanned Israeli National Insu
 
 ## Project Structure
 
-- `main_app.py`: Streamlit UI and main logic
+- `app.py`: Streamlit UI and main logic
 - `ocr.py`: OCR function using Azure Document Intelligence
 - `evaluation_ocr.py`: Validation and evaluation functions
 - `phase1_data/`: Data and ground truth files
