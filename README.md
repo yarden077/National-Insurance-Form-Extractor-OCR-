@@ -1,5 +1,5 @@
 # National Insurance Form Extractor (OCR + GenAI)
-A Streamlit app that extracts structured data from scanned Israeli National Insurance forms using Azure Document Intelligence (OCR) and Azure OpenAI GPT-4o.
+A Streamlit app that extracts structured data from scanned Israeli National Insurance forms using Azure Document Intelligence (OCR) and Azure OpenAI.
 
 ## Project Structure
 
