@@ -30,7 +30,7 @@ A Streamlit app that extracts structured data from scanned Israeli National Insu
 
 4. **Run the Streamlit app:**
     ```bash
-    streamlit run main_app.py
+    streamlit run app.py
     ```
 
 5. **Upload a sample form (PDF/JPG/PNG), view the extracted JSON and evaluation!**
